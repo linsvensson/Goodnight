@@ -1,0 +1,9 @@
+c:\users\lin\documents\visual studio 2015\Projects\Goodnight\Goodnight\bin\Debug\Goodnight.exe.config
+c:\users\lin\documents\visual studio 2015\Projects\Goodnight\Goodnight\obj\Debug\Goodnight.csprojResolveAssemblyReference.cache
+c:\users\lin\documents\visual studio 2015\Projects\Goodnight\Goodnight\bin\Debug\Goodnight.exe
+c:\users\lin\documents\visual studio 2015\Projects\Goodnight\Goodnight\bin\Debug\Goodnight.pdb
+c:\users\lin\documents\visual studio 2015\Projects\Goodnight\Goodnight\obj\Debug\Goodnight.exe
+c:\users\lin\documents\visual studio 2015\Projects\Goodnight\Goodnight\obj\Debug\Goodnight.pdb
+C:\Users\Lin\Documents\GitHub\Goodnight\Goodnight\bin\Debug\Goodnight.exe.config
+C:\Users\Lin\Documents\GitHub\Goodnight\Goodnight\obj\Debug\Goodnight.exe
+C:\Users\Lin\Documents\GitHub\Goodnight\Goodnight\obj\Debug\Goodnight.pdb
